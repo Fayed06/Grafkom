@@ -1,0 +1,8 @@
+﻿  Demo.cpp
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(38,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(39,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.h(41,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(144,40): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(146,39): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Lesson05\Demo.cpp(152,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lesson05.vcxproj -> F:\Kuli Ah\Semester 5\Grafika Komputer\Grafika Komputer dan Visualisasi\vs\Debug\Lesson05.exe
